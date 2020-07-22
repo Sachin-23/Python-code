@@ -29,9 +29,6 @@ The total sum is 16
 	print("Number is not a prime number")
 ```
 ```bash
-$ python
-assignment3.md   .git/            sum.py
-assignments2.md  prime.py
 $ python prime.py
 Enter a number: 43
 Number is not a prime number
