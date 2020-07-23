@@ -182,7 +182,7 @@ False
 
 ### Identity
 
-'''python3
+```python3
 >>> a = 20
 >>> b = 20
 >>> a == b
