@@ -34,4 +34,4 @@ print(sorted(l, key=lambda x: return 0 if n == 0 else max(l)))
 # Attempt 4
 
 l = [0, 1, 2, 10, 4, 1, 0, 56, 2, 0, 1, 3, 0, 56, 0, 4]
-print(sorted(l, key=lambda n: [0, max(l)][n == 0]))
+print(sorted(l, key=lambda n: [n, max(l) + 1][n == 0]))
