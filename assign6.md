@@ -1,4 +1,4 @@
-# Assignment 5
+# Assignment 6
 
 ```python3
 list1 = [1, 2, 3, 4, 5, 7, 8]
