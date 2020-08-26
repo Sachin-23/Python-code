@@ -40,7 +40,7 @@ print(num.islower())
 print(spl.islower())
 print(alpha.isupper())
 print(num.isupper())
-print(spl.isupper())``
+print(spl.isupper())
 ```
 ```bash
 $ python q2.py
